@@ -1,3 +1,5 @@
 print("hi")
 print("bye")
 print("ho")
+print("VVCE")
+print("WELCOME")
